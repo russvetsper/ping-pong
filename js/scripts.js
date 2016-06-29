@@ -12,17 +12,17 @@ $(document).ready(function() {
 
 
       if ((i % 3 === 0) && (i % 5 === 0)){
-        list += "<i>ping-pong</i>"
+        list += "<li>ping-pong</li>"
       }
 
 
       else if ((i % 3 === 0) && (i % 5 !== 0)){
-        list += "<i>ping</i>";
+        list += "<li>ping</li>";
 
       }
 
       else if ((i % 5 === 0) && (i % 3 !== 0)){
-        list += "<i>pong</i>"
+        list += "<li>pong</li>"
 
       }else{
 
