@@ -12,7 +12,7 @@
 
 
 
-Link to the page:      https://Russvetsper.github.io/Ping-Pong
+Link to the page:      https://russvetsper.github.io/ping-pong
 
 _There are no known issues._
 
